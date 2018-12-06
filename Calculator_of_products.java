@@ -10,7 +10,7 @@ package calculator_of_products;
  * @author Катюша
  */
 public class Calculator_of_profsdfsfdgfdgdgdfgdfucts {
-
+fghfghfghfhfghfghfghfghfhf
     /**
      * @param args the command line arguments
      */
