@@ -9,8 +9,15 @@ package calculator_of_products;
  *
  * @author Катюша
  */
-public class Calculator_of_products {
-
+public class Calculator_of_profsdfsdfducts {
+sdfsdfsdf
+    sfdfsdf
+    sdf
+    sdfsd
+    fdsfsdf
+    dsfdfsd
+    fsdf
+    fsd
     /**
      * @param args the command line arguments
      */
