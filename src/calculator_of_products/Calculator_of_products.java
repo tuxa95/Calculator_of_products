@@ -9,7 +9,7 @@ package calculator_of_products;
  *
  * @author Катюша
  */
-public class Calculator_of_products {
+public class Calculator_of_products_conf {
 
     /**
      * @param args the command line arguments
